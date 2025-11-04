@@ -1,16 +1,26 @@
-# assignment2
+# Assignment 2 - Flutter App
 
-A new Flutter project.
+This is a Flutter application developed as part of the Technical Programming Module.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- Cross-platform support (Android, Windows, Web)
+- Firebase integration
+- Sentiment analysis (if applicable)
+- Responsive UI
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK (https://flutter.dev/docs/get-started/install)
+- Android Studio or VS Code
+- Git
+
+### Installation
+
+```bash
+git clone https://github.com/LindiMk/assignment2.git
+cd assignment2
+flutter pub get
+flutter run
